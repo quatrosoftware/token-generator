@@ -1,4 +1,4 @@
-[![Packagist License](https://poser.pugx.org/jsocha/bitbucket/license.png)](http://choosealicense.com/licenses/mit/)
+[![Packagist License](https://poser.pugx.org/jsocha/token-generator/license.png)](http://choosealicense.com/licenses/mit/)
 [![Latest Stable Version](https://poser.pugx.org/jsocha/token-generator/version.png)](https://packagist.org/packages/jsocha/token-generator)
 [![Total Downloads](https://poser.pugx.org/jsocha/token-generator/d/total.png)](https://packagist.org/packages/jsocha/token-generator)
 ## Simple token generator
