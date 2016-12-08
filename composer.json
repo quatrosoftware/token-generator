@@ -1,0 +1,23 @@
+{
+  "name": "jsocha/token-generator",
+  "description": "Creating random token",
+  "license": "MIT",
+  "type": "library",
+  "homepage": "http://quatrodesign.pl",
+  "minimum-stability": "dev",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Jakub Socha",
+      "email": "kontakt@quatrodesign.pl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Jsocha\\TokenGenerator\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
+
